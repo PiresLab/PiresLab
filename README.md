@@ -26,23 +26,16 @@
 
 <h2 align="center">
   👨‍💻 Sobre mim
+  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="90px"> 
 </h2>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="left">
-      🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
-      🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
-      🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
-      💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
-      ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
-    </td>
-    <td width="30px"></td>
-    <td>
-      <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="120px">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
+  🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
+  🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
+  💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
+  ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄 
+</p>
 
 ---
 
