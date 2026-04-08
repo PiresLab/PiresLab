@@ -74,10 +74,11 @@
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img width="40px" src="https://cdn.simpleicons.org/gmail"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://seusite.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    <img width="40px" src="https://cdn.simpleicons.org/googlechrome"/>
   </a>
 </p>
 
