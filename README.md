@@ -28,7 +28,7 @@
   👨‍💻 Sobre mim
 </h2>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="left">
       🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
@@ -37,7 +37,10 @@
       💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
       ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
     </td>
-    <td>
+
+    <td width="30"></td>
+
+    <td align="right">
       <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="120px">
     </td>
   </tr>
