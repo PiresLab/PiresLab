@@ -15,11 +15,11 @@
 <h1 align="center">Pedro Lucas 👋</h1>
 
 <p align="center">
-  🚀 Fullstack Developer • Automation • APIs  
+  🚀 Fullstack Developer • Automations • Relational Databases • QA
 </p>
 
 <p align="center">
-  Apaixonado por resolver problemas complexos e transformar processos em automações inteligentes.
+  Desenvolvedor focado em backend, automações e qualidade de software, com experiência em construção de APIs, manipulação de dados e melhoria de processos.
 </p>
 
 ---
@@ -29,11 +29,12 @@
 </h2>
 
 <p align="center">
-  🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
-  🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
-  🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
-  💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
-  ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄 
+  💼 <b>Função atual:</b> Desenvolvedor Júnior <br><br>
+  🔭 <b>Atualmente:</b> Desenvolvimento de sistemas backend, automações e integrações <br><br>
+  🌱 <b>Foco:</b> Arquitetura de software, APIs e boas práticas <br><br>
+  🤝 <b>Aberto a:</b> Colaboração em projetos e desafios técnicos <br><br>
+  💬 <b>Stack:</b> Java • Python • JavaScript (React/Node) • MySQL • PostgreSQL • Jenkins <br><br>
+  ⚡ <b>Perfil:</b> Forte foco em automação, resolução de problemas e melhoria contínua
 </p>
 
 ---
@@ -69,10 +70,9 @@
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
    &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PiresLab">
+  <a href="#">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/>
   </a>
-  
 </p>
 
 ---
@@ -88,8 +88,6 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
-
----
 
 <p align="center">
   ⭐ Última atualização: 2026
