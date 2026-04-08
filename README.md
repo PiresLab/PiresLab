@@ -34,11 +34,9 @@
   🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
   💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
   ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
-</p>
-
-<p align="center">
   <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
 </p>
+
 ---
 
 <h2 align="center">
