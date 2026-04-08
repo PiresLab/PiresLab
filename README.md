@@ -72,13 +72,13 @@
   <a href="https://github.com/PiresLab">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:seuemail@email.com">
-    <img width="40px" src="https://cdn.simpleicons.org/gmail"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pedrolucasgag@gmail.com">
+    <img width="40px" src="https://cdn.simpleicons.org/gmail?viewbox=auto"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://seusite.com">
-    <img width="40px" src="https://cdn.simpleicons.org/googlechrome"/>
+  <a href="#">
+    <img width="40px" src="https://cdn.simpleicons.org/googlechrome?viewbox=auto"/>
   </a>
 </p>
 
