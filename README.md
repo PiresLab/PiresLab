@@ -28,7 +28,7 @@
   👨‍💻 Sobre mim
 </h2>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+<table align="center" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
   <tr>
     <td align="left">
       🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
