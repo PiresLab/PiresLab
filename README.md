@@ -26,7 +26,6 @@
 
 <h2 align="center">
   👨‍💻 Sobre mim
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="90px"> 
 </h2>
 
 <p align="center">
