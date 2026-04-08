@@ -2,6 +2,10 @@
   Hello Fellow < Developers/ >!
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
+    
+<p align="center">
+  <img src="https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PiresLab&color=blue"/>
@@ -67,10 +71,6 @@
 ---
 
 <h2 align="center">📊 Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight"/>
