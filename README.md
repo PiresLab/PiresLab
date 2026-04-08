@@ -13,25 +13,37 @@
 </p>
 
 <p align="center">
-  Olá! Meu nome é Pedro Lucas 👋 <br>
-  Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
+  <img src="https://komarev.com/ghpvc/?username=PiresLab&color=blue"/>
+  <img src="https://img.shields.io/github/followers/PiresLab?label=Follow&style=social"/>
+</p>
+
+<h1 align="center">Pedro Lucas 👋</h1>
+
+<p align="center">
+  🚀 Backend Developer • Automation • APIs  
+</p>
+
+<p align="center">
+  Apaixonado por resolver problemas complexos e transformar processos em automações inteligentes.
 </p>
 
 ---
 
 <h2 align="center">
-  Sobre mim 
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="60px">
+  👨‍💻 Sobre mim
 </h2>
 
 <p align="center">
-  🔭 Atualmente estou trabalhando em projetos pessoais e sistemas backend <br>
-  🌱 Estou aprendendo cada vez mais sobre arquitetura, APIs e boas práticas <br>
-  👯 Busco colaborar em projetos interessantes <br>
-  💬 Pode me perguntar sobre SQL, Java, Python, automações e backend <br>
-  ⚡ Curiosidade: curto resolver problemas complexos e automatizar tudo 😄
+  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
 </p>
 
+<p align="center">
+  🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
+  🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
+  🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
+  💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
+  ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
+</p>
 ---
 
 <h2 align="center">
