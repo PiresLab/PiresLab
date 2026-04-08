@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/github/followers/PiresLab?label=Follow&style=social"/>
 </p>
 
-<h1 align="center">Pedro Lucas 👋</h1>
+<h1 align="center">Hi, I'm Pedro Lucas 👋</h1>
 
 <p align="center">
-  🚀 Fullstack Developer • Automations • Relational Databases • QA
+  🚀 Fullstack Developer | Automations | Relational Databases | QA
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@
   🔭 <b>Atualmente:</b> Desenvolvimento de sistemas backend, automações e integrações <br><br>
   🌱 <b>Foco:</b> Arquitetura de software, APIs e boas práticas <br><br>
   🤝 <b>Aberto a:</b> Colaboração em projetos e desafios técnicos <br><br>
-  💬 <b>Stack:</b> Java • Python • JavaScript (React/Node) • MySQL • PostgreSQL • Jenkins <br><br>
   ⚡ <b>Perfil:</b> Forte foco em automação, resolução de problemas e melhoria contínua
 </p>
 
@@ -52,6 +51,10 @@
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg">
 </p>
 
 ---
