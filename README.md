@@ -76,6 +76,14 @@
   <a href="#">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/site.svg"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/web.svg"/>
+  </a>
 </p>
 
 ---
