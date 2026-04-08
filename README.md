@@ -55,6 +55,7 @@
   <a href="#">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PiresLab">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
