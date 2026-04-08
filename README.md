@@ -57,11 +57,9 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 
 ## 📊 Estatísticas
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PiresLab&theme=tokyonight)]()
-
+![snake dark](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiresLab&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&locale=pt-br&count_private=true&hide_rank=true&custom_title=Minhas%20Estatísticas&disable_animations=true&theme=tokyonight) |
+
 
 ---
 
