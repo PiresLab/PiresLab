@@ -59,6 +59,9 @@
   <a href="https://github.com/PiresLab">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
+  <a href="#">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/email.svg"/>
+  </a>
 </p>
 
 ---
