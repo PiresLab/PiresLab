@@ -12,15 +12,10 @@
   <img src="https://img.shields.io/github/followers/PiresLab?label=Follow&style=social"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PiresLab&color=blue"/>
-  <img src="https://img.shields.io/github/followers/PiresLab?label=Follow&style=social"/>
-</p>
-
 <h1 align="center">Pedro Lucas 👋</h1>
 
 <p align="center">
-  🚀 Backend Developer • Automation • APIs  
+  🚀 Fullstack Developer • Automation • APIs  
 </p>
 
 <p align="center">
@@ -44,6 +39,7 @@
   💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
   ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
 </p>
+
 ---
 
 <h2 align="center">
@@ -60,6 +56,7 @@
   &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
 </p>
+
 ---
 
 <h2 align="center">
@@ -75,9 +72,11 @@
   <a href="https://github.com/PiresLab">
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a>
-  <a href="#">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/email.svg"/>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PiresLab">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/>
   </a>
+  
 </p>
 
 ---
