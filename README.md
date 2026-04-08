@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/PiresLab?label=Follow&style=social)](https://github.com/PiresLab)
 
 <div size='20px'> 
-Olá! Meu nome é Pedro 👋  
+Olá! Meu nome é Pedro Lucas👋  
 Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 </div>
 
