@@ -1,70 +1,83 @@
-<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">
+  Hello Fellow < Developers/ >!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PiresLab&color=blue"/>
+  <img src="https://img.shields.io/github/followers/PiresLab?label=Follow&style=social"/>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=PiresLab&color=blue)
-[![Github](https://img.shields.io/github/followers/PiresLab?label=Follow&style=social)](https://github.com/PiresLab)
-
-<div size='20px'> 
-Olá! Meu nome é Pedro Lucas 👋  
-Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
-</div>
+<p align="center">
+  Olá! Meu nome é Pedro Lucas 👋 <br>
+  Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
+</p>
 
 ---
 
-<h2> Sobre mim <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"></h2>
+<h2 align="center">
+  Sobre mim 
+  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="60px">
+</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 Atualmente estou trabalhando em projetos pessoais e sistemas backend  
-- 🌱 Estou aprendendo cada vez mais sobre arquitetura, APIs e boas práticas  
-- 👯 Busco colaborar em projetos interessantes  
-- 💬 Pode me perguntar sobre SQL, Java, Python, automações e backend  
-- ⚡ Curiosidade: curto resolver problemas complexos e automatizar tudo que for possível 😄
-
----
-
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
-
-<a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
-<a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-</a>
-<a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-</a>
-<a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-</a>
+<p align="center">
+  🔭 Atualmente estou trabalhando em projetos pessoais e sistemas backend <br>
+  🌱 Estou aprendendo cada vez mais sobre arquitetura, APIs e boas práticas <br>
+  👯 Busco colaborar em projetos interessantes <br>
+  💬 Pode me perguntar sobre SQL, Java, Python, automações e backend <br>
+  ⚡ Curiosidade: curto resolver problemas complexos e automatizar tudo 😄
+</p>
 
 ---
 
-<h2> Conecte-se comigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
+<h2 align="center">
+  Skills 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+</h2>
 
-<a href="#">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-</a>
-<a href="https://github.com/PiresLab">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
-
-<br><br>
-
----
-
-## 📊 Estatísticas
-
-| ![snake dark](https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg) |
-| ![GitHub Streak](https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight) |
-
+<p align="center">
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+  <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+</p>
 
 ---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<h2 align="center">
+  Conecte-se comigo 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
+</h2>
+
+<p align="center">
+  <a href="#">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  </a>
+  <a href="https://github.com/PiresLab">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+  </a>
+</p>
 
 ---
 
-⭐ Última atualização: 2026
+<h2 align="center">📊 Estatísticas</h2>
+
+<p align="center">
+  <img src="https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Última atualização: 2026
+</p>
