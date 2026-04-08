@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/PiresLab?label=Follow&style=social)](https://github.com/PiresLab)
 
 <div size='20px'> 
-Olá! Meu nome é Pedro Lucas👋  
+Olá! Meu nome é Pedro Lucas 👋  
 Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 </div>
 
@@ -17,14 +17,10 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e sistemas backend
-  
-- 🌱 Estou aprendendo cada vez mais sobre arquitetura, APIs e boas práticas
-  
-- 👯 Busco colaborar em projetos interessantes
-  
-- 💬 Pode me perguntar sobre SQL, Java, Python, automações e backend
-  
+- 🔭 Atualmente estou trabalhando em projetos pessoais e sistemas backend  
+- 🌱 Estou aprendendo cada vez mais sobre arquitetura, APIs e boas práticas  
+- 👯 Busco colaborar em projetos interessantes  
+- 💬 Pode me perguntar sobre SQL, Java, Python, automações e backend  
 - ⚡ Curiosidade: curto resolver problemas complexos e automatizar tudo que for possível 😄
 
 ---
@@ -41,10 +37,7 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
 </a>
 <a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
-</a>
-<a href="https://github.com/PiresLab?tab=repositories">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
 </a>
 
 ---
@@ -54,7 +47,7 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 <a href="#">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
-<a href="#">
+<a href="https://github.com/PiresLab">
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
@@ -62,9 +55,11 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 
 ---
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PiresLab&theme=tokyonight)](https://git.io/praveenscience)
+## 📊 Estatísticas
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiresLab&theme=tokyonight) |
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PiresLab&theme=tokyonight)]()
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiresLab&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&locale=pt-br&count_private=true&hide_rank=true&custom_title=Minhas%20Estatísticas&disable_animations=true&theme=tokyonight) |
 
