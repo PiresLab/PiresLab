@@ -28,14 +28,20 @@
   👨‍💻 Sobre mim
 </h2>
 
-<p align="center">
-  🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
-  🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
-  🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
-  💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
-  ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="80px">
-</p>
+<table align="center">
+  <tr>
+    <td align="left">
+      🔭 <b>Atualmente:</b> Projetos backend e automações <br><br>
+      🌱 <b>Estudando:</b> Arquitetura, APIs e boas práticas <br><br>
+      🤝 <b>Aberto a:</b> Colaboração em projetos interessantes <br><br>
+      💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
+      ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
+    </td>
+    <td>
+      <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="120px">
+    </td>
+  </tr>
+</table>
 
 ---
 
