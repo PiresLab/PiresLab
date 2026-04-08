@@ -37,10 +37,8 @@
       💬 <b>Stack:</b> SQL • Java • Python • Automações <br><br>
       ⚡ <b>Fun fact:</b> Automatizo tudo que for possível 😄
     </td>
-
-    <td width="30"></td>
-
-    <td align="right">
+    <td width="30px"></td>
+    <td>
       <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="120px">
     </td>
   </tr>
