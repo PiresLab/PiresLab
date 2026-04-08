@@ -57,8 +57,8 @@ Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
 
 ## 📊 Estatísticas
 
-| ![snake dark](https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg)
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PiresLab&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight) |
+| ![snake dark](https://github.com/PiresLab/PiresLab/blob/output/github-contribution-grid-snake-dark.svg) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=PiresLab&theme=tokyonight) |
 
 
 ---
