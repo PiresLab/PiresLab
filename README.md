@@ -77,7 +77,7 @@
     <img width="40px" src="https://cdn.simpleicons.org/gmail?viewbox=auto"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://pireslab.vercel.app/">
     <img width="40px" src="https://cdn.simpleicons.org/googlechrome?viewbox=auto"/>
   </a>
 </p>
